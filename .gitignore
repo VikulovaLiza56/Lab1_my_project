@@ -1,0 +1,13 @@
+# Виртуальное окружение
+venv/
+
+# Кэш Python
+__pycache__/
+*.pyc
+
+# Настройки Jupyter
+.ipynb_checkpoints/
+
+# Системные файлы
+Thumbs.db
+.DS_Store
